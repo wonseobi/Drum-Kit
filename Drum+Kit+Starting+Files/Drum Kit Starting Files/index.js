@@ -37,7 +37,6 @@ for (var i = 0; i<numberOfDrumButtons; i++) {
         default: console.log(buttonInnerHTML);
         }
     
-        v
 
     });
 
